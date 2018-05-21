@@ -34,8 +34,8 @@ You do not need to download and install Sam Hewitt's Suru Icon, because it alrea
 mkdir ~/.local/share/icons
 # Download quickly like a Millennium Falcon
 svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
-svn export https://github.com/gusbemacbe/suru-plus-lubuntu/trunk/ ~/.local/share/icons/Suru++ \Lubuntu
+svn export https://github.com/gusbemacbe/suru-plus-lubuntu/trunk/ ~/.local/share/icons/Suru++\ Lubuntu
 # When we will update the icons, and if you want to update the icons, just overwrite
 svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
-svn export --force https://github.com/gusbemacbe/suru-plus-lubuntu/trunk/ ~/.local/share/icons/Suru++ \Lubuntu
+svn export --force https://github.com/gusbemacbe/suru-plus-lubuntu/trunk/ ~/.local/share/icons/Suru++\ Lubuntu
 ```
