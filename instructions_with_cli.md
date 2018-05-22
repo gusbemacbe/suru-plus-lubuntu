@@ -8,7 +8,7 @@ Firstly, you must have `git` and `svn` installed.
 sudo apt install curl git subversion wget
 ```
 
-Choose one of two options — Git or SVN. We recommend strongly SVN, which is quicker than Git. 
+Choose one of two options — Git or SVN. We recommend strongly SVN, which is quicker like a MIllenium Falcon than Git. 
 
 ### Git
 
@@ -27,7 +27,7 @@ mv SURU-PLUS Suru++
 mv suru-plus-lubuntu 'Suru++ Lubuntu'
 ```
 
-You do not need to download and install Sam Hewitt's Suru Icon, because it already comes installed under Ubuntu 18.04 and above
+### SVN
 
 ```shell
 # If the folder icons doesn't exist
