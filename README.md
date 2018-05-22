@@ -10,7 +10,7 @@ This new repository is designed for Lubuntu users, who want the 24px and 26px ic
 
 ## Installation
 
-You can choose two option — without or with CLI. We recommend to use CLI because it is very quick.  
+You can choose two option — without or with CLI. We recommend to use CLI's SVN because it is quicker like a MIllenium Falcon.  
 
 * [Installation without CLI](instructions_without_cli.md)
 * [Installation with CLI](instructions_with_cli.md)
